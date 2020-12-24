@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://if-i-animal.netlify.app/sitemap.xml
