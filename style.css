@@ -223,7 +223,7 @@ body {
   height: 2rem;
   border-radius: 10px;
   width: 100%;
-  background-color: #6f42c140;
+  background-color: #bcaeab4f;
 }
 .cat-bar {
   position: absolute;
@@ -231,7 +231,7 @@ body {
   left: 0;
   height: 2rem;
   border-radius: 10px;
-  background-color: #6f42c1;
+  background-color: #bcaeab;
 }
 .nugul-box {
   position: absolute;
@@ -240,7 +240,7 @@ body {
   height: 2rem;
   border-radius: 10px;
   width: 100%;
-  background-color: #ff000026;
+  background-color: #d0904863;
 }
 .nugul-bar {
   position: absolute;
@@ -248,7 +248,7 @@ body {
   left: 0;
   height: 2rem;
   border-radius: 10px;
-  background-color: #ff0000;
+  background-color: #d09048;
 }
 .hamster-box {
   position: absolute;
@@ -274,7 +274,7 @@ body {
   height: 2rem;
   border-radius: 10px;
   width: 100%;
-  background-color: rgba(117, 204, 84, 0.2);
+  background-color: rgba(235, 166, 190, 0.2);
 }
 .tokki-bar {
   position: absolute;
@@ -282,7 +282,7 @@ body {
   left: 0;
   height: 2rem;
   border-radius: 10px;
-  background-color: rgba(117, 204, 84, 1);
+  background-color: rgba(235, 166, 190, 1);
 }
 .gubuk-box {
   position: absolute;
@@ -292,7 +292,7 @@ body {
   border-radius: 10px;
   width: 100%;
   /* background-color: rgba(49, 132, 155, 0.2); */
-  background-color: #dee2e6;
+  background-color:  rgba(117, 204, 84, 0.2);
 }
 .gubuk-bar {
   position: absolute;
@@ -301,7 +301,7 @@ body {
   height: 2rem;
   border-radius: 10px;
   /* background-color: rgba(49, 132, 155, 1); */
-  background-color: black;
+  background-color:rgba(117, 204, 84, 1);
 }
 .gagul-box {
   position: absolute;
@@ -310,7 +310,7 @@ body {
   height: 2rem;
   border-radius: 10px;
   width: 100%;
-  background-color: rgba(235, 166, 190, 0.2);
+  background-color: #7bad184f;
 }
 .gagul-bar {
   position: absolute;
@@ -318,7 +318,7 @@ body {
   left: 0;
   height: 2rem;
   border-radius: 10px;
-  background-color: rgba(235, 166, 190, 1);
+  background-color: #7bad18;
 }
 .percent-text {
   font-size: 1rem;
